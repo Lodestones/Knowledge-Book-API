@@ -1,5 +1,8 @@
 # User-specific stuff
 .idea/
+dependency-reduced-pom.xml
+Knowledge-Book-API.iml
+target
 
 *.iml
 *.ipr
