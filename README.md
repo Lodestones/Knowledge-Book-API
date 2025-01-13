@@ -62,7 +62,7 @@ Add the dependency
 # Documentation
 ## API
 The Knowledge Book API gives you the [MongoJack](https://mongojack.com) API as well as the [@Collection](https://github.com/Lodestones/Knowledge-Book/blob/master/src/main/java/to/lodestone/knowledgebook/annotation/Collection.java) annotation to use.<br />
-To hook into the Knowledge Book API, you can use the [KBHook](https://github.com/Lodestones/Knowledge-Book/blob/master/src/main/java/to/lodestone/knowledgebook/KBHook.java) class.
+To hook into the Knowledge Book API, you can use the [KnowledgeBookAPI]([https://github.com/Lodestones/Knowledge-Book/blob/master/src/main/java/to/lodestone/knowledgebook/KBHook.java](https://github.com/Lodestones/Knowledge-Book-API/blob/master/src/main/java/to/lodestone/knowledgebook/KnowledgeBookAPI.java)) class.
 
 ## Usage
 Hooking into the Knowledge Book API.
