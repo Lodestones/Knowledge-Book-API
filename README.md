@@ -173,4 +173,4 @@ See something Knowledge Book doesn't support, a bug or something that may be use
 ---
 
 # License
-Knowledge Book is protected by [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt). Please view the license [here](https://github.com/Lodestones/Knowledge-Book/blob/master/LICENSE).
+Knowledge Book is ARR. Please view the license [here](https://github.com/Lodestones/Knowledge-Book/blob/master/LICENSE).
