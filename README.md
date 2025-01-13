@@ -37,7 +37,7 @@ Add it in your root build.gradle at the end of repositories:
 Add the dependency
 ```java
     dependencies {
-        implementation 'com.github.Lodestones:Knowledge-Book:v1.0.0'
+        implementation 'com.github.Lodestones:Knowledge-Book:VERSION'
     }
 ```
 ## Maven
@@ -55,7 +55,7 @@ Add the dependency
     <dependency>
         <groupId>com.github.Lodestones</groupId>
         <artifactId>Knowledge-Book</artifactId>
-        <version>v1.0.0</version>
+        <version>VERSION</version>
     </dependency>
 ```
 
