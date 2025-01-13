@@ -6,7 +6,7 @@
 
     <groupId>to.lodestone</groupId>
     <artifactId>Knowledge-Book-API</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>Knowledge-Book-API</name>
@@ -82,7 +82,7 @@
         <dependency>
             <groupId>to.lodestone</groupId>
             <artifactId>Bookshelf-API</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.5</version>
         </dependency>
     </dependencies>
 </project>
