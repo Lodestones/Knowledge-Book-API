@@ -58,10 +58,10 @@
             <id>sonatype</id>
             <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
-	<repository>
-	    <id>jitpack.io</id>
-	    <url>https://jitpack.io</url>
-	</repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -84,9 +84,9 @@
             <scope>provided</scope> <!-- Provided by PaperMC !-->
         </dependency>
         <dependency>
-	   <groupId>com.github.Lodestones</groupId>
-	   <artifactId>Bookshelf-API</artifactId>
-	   <version>v1.1.1</version>
+            <groupId>com.github.Lodestones</groupId>
+            <artifactId>Bookshelf-API</artifactId>
+            <version>v1.1.1</version>
         </dependency>
     </dependencies>
 </project>
