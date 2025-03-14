@@ -80,9 +80,9 @@
             <scope>provided</scope> <!-- Provided by PaperMC !-->
         </dependency>
         <dependency>
-            <groupId>to.lodestone</groupId>
-            <artifactId>Bookshelf-API</artifactId>
-            <version>1.0.5</version>
+	   <groupId>com.github.Lodestones</groupId>
+	   <artifactId>Bookshelf-API</artifactId>
+	   <version>v1.1.1</version>
         </dependency>
     </dependencies>
 </project>
